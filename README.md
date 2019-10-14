@@ -1,4 +1,4 @@
-# PyData PyConDE talk 11.09.2019
+# PyData PyConDE talk 11.10.2019
 
 Outline of the talk can be found here:
 
